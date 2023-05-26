@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Silky</h1>
-<h3 align="center">I enjoy making video game cheats</h3>
+<h3 align="center">I enjoy playing valorant & apex</h3>
 
 - 🌱 I’m currently learning **python**
-
-- ⚡ Fun fact **I started coding at 12**
+- 🙂 Currently Making a External Valo Cheat
 
 
 <h3 align="left">Languages and Tools:</h3>
